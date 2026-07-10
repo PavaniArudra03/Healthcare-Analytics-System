@@ -1,0 +1,16 @@
+Provider ID,Provider Name,Ticker Symbol,Primary Plan Type,Network Scope,Member Satisfaction (1-5),Customer Service Phone,Financial Rating
+INS001,UnitedHealth Group,UHG,PPO,National,4.1,1-800-328-5979,A
+INS002,Anthem Blue Cross,ANTM,HMO,National,3.9,1-800-331-1476,A
+INS003,Aetna,AET,PPO,National,4,1-800-872-3862,A
+INS004,Cigna Health,CI,EPO,National,3.8,1-800-244-6224,A-
+INS005,Humana,HUM,HMO,National,3.7,1-800-448-6262,B+
+INS006,Kaiser Permanente,KP,HMO,Regional,4.5,1-800-464-4000,A+
+INS007,Centene Corporation,CNC,HDHP,National,3.5,1-800-227-3550,B+
+INS008,Molina Healthcare,MOH,HMO,Regional,3.4,1-888-665-4621,B
+INS009,WellCare Health,WCG,PPO,Regional,3.6,1-866-530-9491,B+
+INS010,Oscar Health,OSCR,EPO,Regional,4.2,1-855-672-2788,A-
+INS011,BCBS Florida,BCBSFL,PPO,Regional,4,1-800-477-3736,A
+INS012,BCBS Texas,BCBSTX,HMO,Regional,3.9,1-800-521-2227,A-
+INS013,Harvard Pilgrim,HPHC,EPO,Regional,4.3,1-888-333-4742,A
+INS014,Bright Health,BHG,HDHP,Regional,3.3,1-888-874-1456,B
+INS015,HealthFirst,HF,HMO,Regional,3.8,1-866-463-6743,B+
